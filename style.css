@@ -1,40 +1,38 @@
 body{
-  text-align: center;
-  margin: auto;
+  	text-align: center;
 }
-h1 {
-	font-family: sans-serif;
+h1, h2{
+  	line-height: 0.5em;
+  	font-family: sans-serif;
+}
+h1{
 	font-weight: lighter;
 	font-size: 20 px;
 	color: #32CD32;
 }
 .trente-cinq{
-  color: black;
+  	color: black;
 }
 h2{
-  color: #4169E1;
-  font-weight: normal;
-  font-size: 225%;
-  font-family: sans-serif;
-}
-h1, h2{
-  line-height: 0.5em;
+	color: #4169E1;
+	font-weight: normal;
+	font-size: 225%;
 }
 .text{
-  background-color: #FFFACD;
-  border-radius: 0%;
-  height: 50%;
-  width: 27%;
-  text-align: center;
-  margin: 5% 0% 0% 30%;
-  padding: 1% 3% 0% 3%;
-  line-height: normal;
+  	background-color: #FFFACD;
+  	border-radius: 0%;
+  	height: 50%;
+  	width: 27%;
+ 	 text-align: center;
+  	margin: 5% 0% 0% 30%;
+  	padding: 1% 3% 0% 3%;
+  	line-height: normal;
 
 }
 .blocksed{
-  color: #4169E1;
-  font-size: 12px;
-  font-weight: bold;
-  font-style: normal;
-  font-family: sans-serif;
+  	color: #4169E1;
+  	font-size: 12px;
+  	font-weight: bold;
+  	font-style: normal;
+  	font-family: sans-serif;
 }
